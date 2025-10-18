@@ -12,12 +12,18 @@ The goal is to explore trends and visualize correlations using Python data analy
 - Scikit-learn 
 
 ## Dataset
-The dataset is synthetic and includes features such as:  
+The dataset is synthetic and includes features such as: 
 - `Coffee_Intake` — cups per day  
-- `Sleep_Hours`  
-- `Stress_Level`  
-- `Health_Score`  
-- `Age`, `Gender`, `Occupation`, etc.  
+- `Sleep_Hours`
+- `Sleep_Quality`
+- `Stress_Level`
+- `Caffeine_mg`
+- `BMI`
+- `Heart_Rate`
+- `Health_Score`
+- `Physical_Activity_Hours`
+- `Health_Issues`
+- `Age`, `Gender`, `Occupation`, `Smoking`, `Alcohol_Consumption`.  
 
 ## Key Tasks
 - Data cleaning and preprocessing  
